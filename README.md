@@ -1,13 +1,14 @@
 # 30-gun-challenge
 Eğitimim sırasındaki kod çalışmaları
 <br>
-python safhası
 <br>
-değişkenler işlendi
+PYTHON SAFHASI  
 <br>
-stringler işlendi
+-değişkenler işlendi
 <br>
-yazılım taktikleri takip ediliyor
+-stringler işlendi
 <br>
-python içine python ile ilgili notlar alınıyor
+-yazılım taktikleri takip ediliyor
+<br>
+-python içine python ile ilgili notlar alınıyor
 <br>
