@@ -1,0 +1,2 @@
+Bilgiler genelde verilerden gelir.
+Veritabanın herşey ortak kurallarla konulmalıdır.
