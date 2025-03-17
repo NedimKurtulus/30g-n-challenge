@@ -1,0 +1,7 @@
+ilk index 0
+[2:5] 2 den başlar 2 dahil 5 e kadar 5 dahil değil
+[2:] 2 den başlar 2 dahil en son index e kadar gider
+indexin içine len fonksiyonu sokabilirsin zaten int döndürür
+strip boşluklara göre ayırır
+split default olarak hem baştaki hem sondaki hem de içerdeki boşlukları görmezden gelip ayırır
+splitin içine neye gore ayıracağını koyabilirsin
