@@ -5,3 +5,6 @@ indexin içine len fonksiyonu sokabilirsin zaten int döndürür
 strip boşluklara göre ayırır
 split default olarak hem baştaki hem sondaki hem de içerdeki boşlukları görmezden gelip ayırır
 splitin içine neye gore ayıracağını koyabilirsin
+arraylari eşittirle kopyalayamazsın sadece adres yerinde aynı kısımda tulmasını sağlarsa böylelikle aynı array olmuş ollurlar.
+array yedeği .copy() ile alınır
+array extend ya da appen ile geliştirilir [bir sonraki index] taktiği işe yaramaz
