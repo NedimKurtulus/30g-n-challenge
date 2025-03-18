@@ -1,2 +1,4 @@
 Bilgiler genelde verilerden gelir.
 Veritabanın herşey ortak kurallarla konulmalıdır.
+veriden bişi çekerken bilmem neyin sayısı ya da indexi önem taşıyabilir.
+bir çok şey arraylarle koda gelebilir.
