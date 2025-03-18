@@ -12,3 +12,9 @@ PYTHON SAFHASI
 <br>
 -python içine python ile ilgili notlar alınıyor
 <br>
+-lists işlendi
+<br>
+-yazılım taktikleri güncellendi
+<br>
+-python taktikleri güncellendei
+****
