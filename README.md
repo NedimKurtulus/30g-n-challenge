@@ -4,7 +4,7 @@ Eğitimim sırasındaki kod çalışmaları
 <br>
 PYTHON SAFHASI  
 <br>
--değişkenler işlendi
+--değişkenler işlendi
 <br>
 -stringler işlendi
 <br>
@@ -16,5 +16,5 @@ PYTHON SAFHASI
 <br>
 -yazılım taktikleri güncellendi
 <br>
--python taktikleri güncellendei
+--python taktikleri güncellendei
 ****
