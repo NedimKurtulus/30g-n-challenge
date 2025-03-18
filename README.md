@@ -4,17 +4,17 @@ Eğitimim sırasındaki kod çalışmaları
 <br>
 PYTHON SAFHASI  
 <br>
---değişkenler işlendi
+-değişkenler işlendi  
 <br>
--stringler işlendi
+-stringler işlendi  
 <br>
--yazılım taktikleri takip ediliyor
+-yazılım taktikleri takip ediliyor  
 <br>
--python içine python ile ilgili notlar alınıyor
+-python içine python ile ilgili notlar alınıyor  
 <br>
--lists işlendi
+-lists işlendi  
 <br>
--yazılım taktikleri güncellendi
+-yazılım taktikleri güncellendi  
 <br>
---python taktikleri güncellendei
+-python taktikleri güncellendei  
 ****
