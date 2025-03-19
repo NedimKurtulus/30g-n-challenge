@@ -8,3 +8,10 @@ splitin içine neye gore ayıracağını koyabilirsin
 arraylari eşittirle kopyalayamazsın sadece adres yerinde aynı kısımda tulmasını sağlarsa böylelikle aynı array olmuş ollurlar.
 array yedeği .copy() ile alınır
 array extend ya da appen ile geliştirilir [bir sonraki index] taktiği işe yaramaz
+liste içinde tuple , tuple içinde liste tanımlanabilir.
+listenin içine de tuple ın içine de farklı veri yapıları girebilir.
+tuple lar sadece okjunabilir  , onları değiştiremezsin.
+tuple ların performansı daha yüksek.
+mesela index kısmına -2 yazarsan sondan ikinci indexte ne varsa onu verir.
+tupılda index virgülle döner bu tuple olduğunu bellemek içindir.
+bir tuple olduğunu programa anlatmak için içine soktuğunuz değerden sonra virgül çakmalısınız.
