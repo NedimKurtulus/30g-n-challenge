@@ -22,4 +22,6 @@ PYTHON SAFHASI
 <br>
 -setler ve set fonksiyonları işlendi  
 <br>
+-dictionaries işlnedi.  
+<br>
 
