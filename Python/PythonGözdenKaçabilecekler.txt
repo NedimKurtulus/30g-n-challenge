@@ -20,3 +20,5 @@ tuple içine boş deger [] ile sokulur.
 listelere [] bu değer içine yazarsın.
 liste içine array [] bununla konulur
 liste içine boş eleman () ile sokulur.
+setler kıvırcık parantezle yazılır.
+setleri yazdırmaya kalktığınızda rastgle yazar bu onun listelerde daha iyi performans göstermesine sebep olur.
