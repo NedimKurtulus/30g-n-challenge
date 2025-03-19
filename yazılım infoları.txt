@@ -2,3 +2,5 @@ Bilgiler genelde verilerden gelir.
 Veritabanın herşey ortak kurallarla konulmalıdır.
 veriden bişi çekerken bilmem neyin sayısı ya da indexi önem taşıyabilir.
 bir çok şey arraylarle koda gelebilir.
+herşeyin artısı eksisi vardır .Biz bunları göz önünde bulundurmalıyız.
+bazı şeyler performansı artıırırken kullanılabilirlik ya da işlevsellikten ödün vermemiz gerekebilir.
