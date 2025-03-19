@@ -25,3 +25,4 @@ setleri yazdırmaya kalktığınızda rastgle yazar bu onun listelerde daha iyi 
 indeki elemanları bulmak için döngülerden faydalanır.
 sete eleman eklenebilir ama eleman değiştirilemez.
 add() le tek eleman update() le birden fazla eleman koyabilirsin update kullanacaksan liste içine sokup yap tek eleman değil birden fazla eleman çakar.
+remove() la silebilirsin ama eleman yoksa hata verir.Bunun yerine discard() kullanırsan hata vermez.
