@@ -15,3 +15,8 @@ tuple ların performansı daha yüksek.
 mesela index kısmına -2 yazarsan sondan ikinci indexte ne varsa onu verir.
 tupılda index virgülle döner bu tuple olduğunu bellemek içindir.
 bir tuple olduğunu programa anlatmak için içine soktuğunuz değerden sonra virgül çakmalısınız.
+tuple parantezler içine yazılır içine array sokacaksan parantezle sokarsın.
+tuple içine boş deger [] ile sokulur.
+listelere [] bu değer içine yazarsın.
+liste içine array [] bununla konulur
+liste içine boş eleman () ile sokulur.
