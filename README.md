@@ -24,4 +24,8 @@ PYTHON SAFHASI
 <br>
 -dictionaries işlnedi.  
 <br>
+-yazılım taktikleri güncellendi  
+<br>
+-python taktikleri güncellendei  
+<br>
 
