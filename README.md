@@ -17,4 +17,9 @@ PYTHON SAFHASI
 -yazılım taktikleri güncellendi  
 <br>
 -python taktikleri güncellendei  
-****
+<br>
+-tuple lar işlendi  
+<br>
+-setler ve set fonksiyonları işlendi  
+<br>
+
