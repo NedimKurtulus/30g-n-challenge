@@ -34,3 +34,5 @@ set .union() ile birleşim yapılır.
 set .intersaction() ile kesişim yapılır.
 set .difference() ile farklarını bulursun iki setin yeri değişirse farklı sonuçlar verir.
 set .symmetric_difference() is kesişimin verdiği kısmın haricini verir.
+dictionary için parentez aç içine .ict tırnaklarla elemanı karşına : koyduktan sonra karşılıiını yaz.
+dict() fonksiyonu ile de dictionary oluşturulabilir.
