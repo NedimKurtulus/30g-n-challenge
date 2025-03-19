@@ -22,3 +22,5 @@ liste içine array [] bununla konulur
 liste içine boş eleman () ile sokulur.
 setler kıvırcık parantezle yazılır.
 setleri yazdırmaya kalktığınızda rastgle yazar bu onun listelerde daha iyi performans göstermesine sebep olur.
+indeki elemanları bulmak için döngülerden faydalanır.
+sete eleman eklenebilir ama eleman değiştirilemez.
