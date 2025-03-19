@@ -32,3 +32,5 @@ setlerde del kullanırsan direk tanımlanan seti hafıza dan siliyor.
 set() fonkisyonuylada set oluşturabilirsin.
 set .union() ile birleşim yapılır.
 set .intersaction() ile kesişim yapılır.
+set .difference() ile farklarını bulursun iki setin yeri değişirse farklı sonuçlar verir.
+set .symmetric_difference() is kesişimin verdiği kısmın haricini verir.
