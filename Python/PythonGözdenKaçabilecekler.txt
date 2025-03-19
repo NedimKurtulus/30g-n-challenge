@@ -28,3 +28,4 @@ setlerde add() le tek eleman update() le birden fazla eleman koyabilirsin update
 setlerde remove() la silebilirsin ama eleman yoksa hata verir.Bunun yerine discard() kullanırsan hata vermez.
 setlerde pop() kullanma rasgele patlatıyor.
 setlerde clean() hepsini temizliyor
+setlerde del kullanırsan direk tanımlanan seti hafıza dan siliyor.
