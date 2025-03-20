@@ -1,8 +1,8 @@
 # 30-gun-challenge
-Eğitimim sırasındaki kod çalışmaları
+# Eğitimim sırasındaki kod çalışmaları
 <br>
 <br>
--PYTHON SAFHASI  
+PYTHON SAFHASI  
 <br>
 -değişkenler işlendi  
 <br>
@@ -22,6 +22,6 @@ Eğitimim sırasındaki kod çalışmaları
 <br>
 -conditional işlendi  
 <br>
--
+
 
 
