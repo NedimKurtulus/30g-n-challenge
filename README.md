@@ -20,7 +20,9 @@ PYTHON SAFHASI
 <br>
 -dictionaries işlnedi.  
 <br>
--conditional işlendi  
+-conditionals işlendi  
+<br>
+-döngüler işlendi  
 <br>
 
 
