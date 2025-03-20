@@ -39,3 +39,4 @@ dict() fonksiyonu ile de dictionary oluşturulabilir.
 python da blokalar bir kez tab tuşuna basmışçasına bir içeri girintiyle gösterilir.
 eşit midir sorusu == ile gösterilir
 for döngüsünde for la in arası kısımda olan isim bizim elemanlara verdiğimiz bir değişken ,herşey olabilir.
+!= farklıysa demek.
