@@ -2,7 +2,7 @@
 Eğitimim sırasındaki kod çalışmaları
 <br>
 <br>
-PYTHON SAFHASI  
+-PYTHON SAFHASI  
 <br>
 -değişkenler işlendi  
 <br>
@@ -14,18 +14,14 @@ PYTHON SAFHASI
 <br>
 -lists işlendi  
 <br>
--yazılım taktikleri güncellendi  
-<br>
--python taktikleri güncellendei  
-<br>
 -tuple lar işlendi  
 <br>
 -setler ve set fonksiyonları işlendi  
 <br>
 -dictionaries işlnedi.  
 <br>
--yazılım taktikleri güncellendi  
+-conditional işlendi  
 <br>
--python taktikleri güncellendei  
-<br>
+-
+
 
