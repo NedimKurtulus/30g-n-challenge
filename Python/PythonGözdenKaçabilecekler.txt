@@ -40,3 +40,4 @@ python da blokalar bir kez tab tuşuna basmışçasına bir içeri girintiyle g�
 eşit midir sorusu == ile gösterilir
 for döngüsünde for la in arası kısımda olan isim bizim elemanlara verdiğimiz bir değişken ,herşey olabilir.
 != farklıysa demek.
+while döngüsünde iterasyonu sen koyuyuorsun.
