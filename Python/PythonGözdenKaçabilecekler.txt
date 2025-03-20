@@ -42,3 +42,4 @@ for döngüsünde for la in arası kısımda olan isim bizim elemanlara verdiği
 != farklıysa demek.
 while döngüsünde iterasyonu sen koyuyuorsun.
 break direk döngüden çıkar ,continue ise döngünün o an ki adımını görmezden gelir ve iterasyonda bir sonrakine gider.
+range parantezinin içindeki ikinci virgül atlama sayısıdır.
