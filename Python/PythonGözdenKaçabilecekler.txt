@@ -43,3 +43,5 @@ for döngüsünde for la in arası kısımda olan isim bizim elemanlara verdiği
 while döngüsünde iterasyonu sen koyuyuorsun.
 break direk döngüden çıkar ,continue ise döngünün o an ki adımını görmezden gelir ve iterasyonda bir sonrakine gider.
 range parantezinin içindeki ikinci virgül atlama sayısıdır.
+fonksiyonlar hazır olduğu gibi custom da olabilir.
+fonksiyon tanımı için başına def konur.
