@@ -45,3 +45,5 @@ break direk döngüden çıkar ,continue ise döngünün o an ki adımını gör
 range parantezinin içindeki ikinci virgül atlama sayısıdır.
 fonksiyonlar hazır olduğu gibi custom da olabilir.
 fonksiyon tanımı için başına def konur.
+parametreli fonksiyonlar olduğu gibi parametresiz fonksiyonlar da olabilir.
+matemtikteki fonksiyonların haricinde python daki fonksiyonlar bir şey döndürmek zorunda değildir.
