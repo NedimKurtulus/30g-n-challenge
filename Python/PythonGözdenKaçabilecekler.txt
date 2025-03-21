@@ -47,3 +47,4 @@ fonksiyonlar hazır olduğu gibi custom da olabilir.
 fonksiyon tanımı için başına def konur.
 parametreli fonksiyonlar olduğu gibi parametresiz fonksiyonlar da olabilir.
 matemtikteki fonksiyonların haricinde python daki fonksiyonlar bir şey döndürmek zorunda değildir.
+#%% #%% arasında kalan kısım kodda bir blok oluşturur ve kodun istendiğinide parça parça (cell) okunmasını sağlar.
