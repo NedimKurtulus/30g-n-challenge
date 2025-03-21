@@ -48,3 +48,5 @@ fonksiyon tanımı için başına def konur.
 parametreli fonksiyonlar olduğu gibi parametresiz fonksiyonlar da olabilir.
 matemtikteki fonksiyonların haricinde python daki fonksiyonlar bir şey döndürmek zorunda değildir.
 #%% #%% arasında kalan kısım kodda bir blok oluşturur ve kodun istendiğinide parça parça (cell) okunmasını sağlar.
+lambda fonksiyonlar hızlı tek satır fonksiyonlar hazırlamak için kullanılır.
+fonksiyona isim ve eşittir de , lambda yaz boşluk bırak , parametreleri arasında virgül olacak şekilde yaz , iki nokta üst üste koy ve neyi döndüreceğini yaz
