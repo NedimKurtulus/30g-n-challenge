@@ -1,5 +1,6 @@
 # 30-gun-challenge
 # Eğitimim sırasındaki kod çalışmaları
+# kaynakça : Engin Demiroğ , Aranan programcı olma kamp kursu , Udemy.
 <br>
 <br>
 PYTHON SAFHASI  
