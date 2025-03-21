@@ -25,6 +25,8 @@ PYTHON SAFHASI
 <br>
 -döngüler işlendi  
 <br>
+-fonksiyonlar işlendi  
+<br>
 
 
 
