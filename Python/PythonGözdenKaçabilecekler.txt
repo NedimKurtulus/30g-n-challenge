@@ -51,3 +51,4 @@ matemtikteki fonksiyonların haricinde python daki fonksiyonlar bir şey döndü
 python da class larda parantez içinde ilk başa self yazman lazım çünkü herif kendini de çağıracak şekilde ayarlanmış ,bu default bişi,bizi bağlamıyor.
 lambda fonksiyonlar hızlı tek satır fonksiyonlar hazırlamak için kullanılır.
 fonksiyona isim ve eşittir de , lambda yaz boşluk bırak , parametreleri arasında virgül olacak şekilde yaz , iki nokta üst üste koy ve neyi döndüreceğini yaz
+class içine __init__ gömersen sınıfı her çağırdığında çalışacak şeyleri içine yazabilirsin ,elbette onun içine de self koyacaksın.
