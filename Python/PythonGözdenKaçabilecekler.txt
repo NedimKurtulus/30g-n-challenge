@@ -54,3 +54,4 @@ fonksiyona isim ve eşittir de , lambda yaz boşluk bırak , parametreleri aras�
 class içine __init__ gömersen sınıfı her çağırdığında çalışacak şeyleri içine yazabilirsin ,elbette onun içine de self koyacaksın.
 self li değişkenler de kurabilirsin onlarda global değişkenler olur sonrasında içine bişey gömdünüğünde sanki onu değiştirip işlermiş gibi oluyor.
 module ler başka sayfalarda çağrılmak üzere hazırlanır,hazır olanları olduğu gibi cutom olanları da vardır.
+çağırdığın module ü as kullanarak farklı adlandırıp yerelde kullanabilirsin.
