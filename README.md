@@ -27,6 +27,8 @@ PYTHON SAFHASI
 <br>
 -fonksiyonlar işlendi  
 <br>
+-classlar işlendi  
+<br>
 
 
 
