@@ -52,3 +52,4 @@ python da class larda parantez içinde ilk başa self yazman lazım çünkü her
 lambda fonksiyonlar hızlı tek satır fonksiyonlar hazırlamak için kullanılır.
 fonksiyona isim ve eşittir de , lambda yaz boşluk bırak , parametreleri arasında virgül olacak şekilde yaz , iki nokta üst üste koy ve neyi döndüreceğini yaz
 class içine __init__ gömersen sınıfı her çağırdığında çalışacak şeyleri içine yazabilirsin ,elbette onun içine de self koyacaksın.
+self li değişkenler de kurabilirsin onlarda global değişkenler olur sonrasında içine bişey gömdünüğünde sanki onu değiştirip işlermiş gibi oluyor.
