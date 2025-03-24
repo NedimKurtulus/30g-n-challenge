@@ -6,3 +6,4 @@ herşeyin artısı eksisi vardır .Biz bunları göz önünde bulundurmalıyız.
 bazı şeyler performansı artıırırken kullanılabilirlik ya da işlevsellikten ödün vermemiz gerekebilir.
 kod yazılımını kolaylaştırmak ve hızlandırmak için hazır fonksiyonlardan faydalanmalı.
 programlama dilleri o kadar da önemli değildir önemli olan algoritmalardır.
+herşeyi kendimiz yazmak zorunda değiliz birçok ide nin ya da yazılım dilinin hazır kütüphaneleri,modülleri,fonksiyonları vardır.
