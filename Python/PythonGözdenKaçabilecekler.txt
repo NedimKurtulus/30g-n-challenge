@@ -59,3 +59,4 @@ readline kodu satır satır okuttutr.
 w write a append r read x create dosyalaarlarla çalışırken önemli.
 f.read() file read demek.
 dosyayla işin biterse dosyayı f.close() ile kapamayı unutma
+json format olarak sözlüklere benziyor.
