@@ -55,3 +55,5 @@ class içine __init__ gömersen sınıfı her çağırdığında çalışacak ş
 self li değişkenler de kurabilirsin onlarda global değişkenler olur sonrasında içine bişey gömdünüğünde sanki onu değiştirip işlermiş gibi oluyor.
 module ler başka sayfalarda çağrılmak üzere hazırlanır,hazır olanları olduğu gibi cutom olanları da vardır.
 çağırdığın module ü as kullanarak farklı adlandırıp yerelde kullanabilirsin.
+readline kodu satır satır okuttutr.
+w write a append r read x create dosyalaarlarla çalışırken önemli.
