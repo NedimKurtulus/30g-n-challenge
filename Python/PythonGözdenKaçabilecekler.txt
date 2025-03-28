@@ -57,3 +57,4 @@ module ler başka sayfalarda çağrılmak üzere hazırlanır,hazır olanları o
 çağırdığın module ü as kullanarak farklı adlandırıp yerelde kullanabilirsin.
 readline kodu satır satır okuttutr.
 w write a append r read x create dosyalaarlarla çalışırken önemli.
+f.read() file read demek.
