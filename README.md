@@ -29,6 +29,10 @@ PYTHON SAFHASI
 <br>
 -classlar işlendi  
 <br>
+-dosyalar işlendi  
+<br>
+-json formatı işlendi  
+<br>
 
 
 
