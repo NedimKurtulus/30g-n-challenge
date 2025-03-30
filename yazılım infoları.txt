@@ -7,3 +7,4 @@ bazı şeyler performansı artıırırken kullanılabilirlik ya da işlevsellikt
 kod yazılımını kolaylaştırmak ve hızlandırmak için hazır fonksiyonlardan faydalanmalı.
 programlama dilleri o kadar da önemli değildir önemli olan algoritmalardır.
 herşeyi kendimiz yazmak zorunda değiliz birçok ide nin ya da yazılım dilinin hazır kütüphaneleri,modülleri,fonksiyonları vardır.
+Yazilim gelistirirken scrum ve cevik yazilim ,hedefe hizli ve emni adimlarla goturur.
