@@ -33,6 +33,12 @@ PYTHON SAFHASI
 <br>
 -json formatı işlendi  
 <br>
-
-
+<br>
+<br>
+JAVA SAFHASI  
+<br>
+değişkenler işlendi  
+<br>
+şart blokları işlendi  
+<br>
 
