@@ -37,8 +37,9 @@ PYTHON SAFHASI
 <br>
 JAVA SAFHASI  
 <br>
-değişkenler işlendi  
+-değişkenler işlendi  
 <br>
-şart blokları işlendi  
+-şart blokları işlendi  
 <br>
-
+-javaya ait özel ayrıntılar takip ediliyor.  
+<br>
