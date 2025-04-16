@@ -1,0 +1,3 @@
+java da her kod bloğu süslü parantezle açılır kapanır .
+her satır noktalı virgülle son bulur çok az istisnası vardır.
+i=i+1 ve i++ aynı şey.
