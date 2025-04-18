@@ -8,3 +8,15 @@ kod yazılımını kolaylaştırmak ve hızlandırmak için hazır fonksiyonlard
 programlama dilleri o kadar da önemli değildir önemli olan algoritmalardır.
 herşeyi kendimiz yazmak zorunda değiliz birçok ide nin ya da yazılım dilinin hazır kütüphaneleri,modülleri,fonksiyonları vardır.
 Yazilim gelistirirken scrum ve cevik yazilim ,hedefe hizli ve emni adimlarla goturur.
+Arrays.toString(dizi) → Diziyi ekrana yazdırmak için string formatına çevirir.
+Arrays.sort(dizi) → Diziyi küçükten büyüğe sıralar.
+Arrays.copyOf(dizi, yeniBoyut) → Dizinin belirtilen boyuttabir kopyasını oluşturur.
+Arrays.copyOfRange(dizi, başlangıç, bitiş) → Dizinin belirli bir aralığını içeren yeni bir dizi döner.
+Arrays.equals(dizi1, dizi2) → İki dizinin tüm elemanlarını karşılaştırarak eşit olup olmadığını kontrol eder.
+Arrays.fill(dizi, değer) → Dizinin tüm elemanlarını aynı değerle doldurur.
+Arrays.binarySearch(dizi, aranan) → Sıralı dizide belirtilen değerin indeksini bulur, yoksa negatif değer döner.
+Arrays.asList(...) → Dizi gibi davranan sabit uzunluklu bir liste oluşturur.
+Arrays.deepToString(ikiBoyutluDizi) → Çok boyutlu dizilerin içeriğini string olarak gösterir.
+Arrays.deepEquals(dizi1, dizi2) → Çok boyutlu dizilerin içeriklerini derinlemesine karşılaştırır.
+
+
