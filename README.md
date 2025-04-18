@@ -43,3 +43,5 @@ JAVA SAFHASI
 <br>
 -javaya ait özel ayrıntılar takip ediliyor.  
 <br>
+-array ler işlendi.  
+<br>
