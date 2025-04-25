@@ -18,5 +18,7 @@ Arrays.binarySearch(dizi, aranan) → Sıralı dizide belirtilen değerin indeks
 Arrays.asList(...) → Dizi gibi davranan sabit uzunluklu bir liste oluşturur.
 Arrays.deepToString(ikiBoyutluDizi) → Çok boyutlu dizilerin içeriğini string olarak gösterir.
 Arrays.deepEquals(dizi1, dizi2) → Çok boyutlu dizilerin içeriklerini derinlemesine karşılaştırır.
-
+Ne yaparsan yap sonsuz döngüye girme 
+loglama kullan
+versiyon kontrolü hayat kurtarir
 
