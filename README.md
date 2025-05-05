@@ -45,3 +45,5 @@ JAVA SAFHASI
 <br>
 -array ler işlendi.  
 <br>
+-encapsulation işlendi  
+<br>
